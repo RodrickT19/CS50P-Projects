@@ -1,4 +1,4 @@
-emoticon ="v.v"
+emoticon =": )"
 
 
 def main():
